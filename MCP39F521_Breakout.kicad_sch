@@ -3461,7 +3461,7 @@
     (property "Value" "MCP39F521" (id 1) (at 146.2024 100.33 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias" (id 2) (at 153.8224 74.93 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm" (id 2) (at 153.8224 74.93 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/20005442A.pdf" (id 3) (at 156.3624 72.39 0)
@@ -3664,7 +3664,7 @@
       (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
     )
     (path "/da78d0ed-192f-4411-a0f9-79bdfc0c146d"
-      (reference "U1") (unit 1) (value "MCP39F521") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias")
+      (reference "U1") (unit 1) (value "MCP39F521") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm")
     )
     (path "/3119c087-44b1-40ae-b65a-35145a036b16"
       (reference "U2") (unit 1) (value "MCP9700AT-ETT") (footprint "Package_TO_SOT_SMD:SOT-23")
