@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "mcp39f521")(type "KiCad")(uri "${KIPRJMOD}/lib/mcp39f521.kicad_sym")(options "")(descr ""))
+  (lib (name "whatnick")(type "Legacy")(uri "${KIPRJMOD}/lib/whatnick.lib")(options "")(descr ""))
 )
