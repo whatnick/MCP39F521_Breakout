@@ -59,7 +59,8 @@
       37,
       38
     ],
-    "visible_layers": "fffffff_ffffffff"
+    "visible_layers": "fffffff_ffffffff",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "MCP39F521_Breakout.kicad_prl",
